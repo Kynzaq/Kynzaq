@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Kynzaq.
-- 👀 I’m interested in Web development, Designs, Argumented Reality, Artificial Inteligence, Gaming...
-- 🌱 I’m currently learning Python, Machine Learning, C++, C, React, JavaScript...
-- 💞️ I’m looking to collaborate on any Software projects, from designs to developments ( Coding )...
-- 📫 How to reach me, email: [ Kynzaq@gmail.com ]...
+i’m Kynzaq.
+building products that will dominate the future :)
 
-<!---
-Kynzaq/Kynzaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+not writing any codes right now because i've found something that's caught my attention.
+
+no-code tools & ai.
