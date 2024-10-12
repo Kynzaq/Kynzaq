@@ -1,6 +1,5 @@
-i’m Kynzaq.
-building products that will dominate the future :)
+yo!
 
-not writing any codes right now because i've found something that's caught my attention.
+i'm kyn, a 17 y/o...
 
-no-code tools & ai.
+who's obsessed about building :)
